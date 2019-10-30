@@ -19,6 +19,8 @@
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
+------
+
 ## Paper List
 
 ### Sentihood
@@ -30,6 +32,8 @@
 - **[NAACL-18]**: Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis. [[paper]](https://aclweb.org/anthology/N18-2045) [[code]](https://github.com/liufly/delayed-memory-update-entnet)
 
 - **[ACL-19]**: Context-aware Embedding for Targeted Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/P19-1462.pdf)
+
+------
 
 ### SemEval-2014 Task 4(add some task)
 ####  Subtask 1: Aspect term extraction
@@ -57,7 +61,7 @@
 - **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [paper] [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
 
-#### Subtask 2: Aspect term polarity
+#### Subtask 3: Aspect term polarity
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
 - **[NIPS-14-workshop]**: Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. [[paper]](https://pdfs.semanticscholar.org/4500/68221da8297ac0a0e1524b1e196900c61b2e.pdf)
@@ -136,7 +140,7 @@
 
 - **[arXiv-19]**: Modeling Sentiment Dependencies with Graph Convolutional Networks for Aspect-level Sentiment Classification. [[paper]](https://arxiv.org/pdf/1906.04501.pdf) [[code]](https://github.com/Pinlong-Zhao/SDGCN) 
 
-#### Subtask 3: Multi-Aspect Sentiment Analysis
+#### Subtask 4: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
@@ -149,10 +153,10 @@
 
 - **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
 
-####  Subtask 4: cross-domain Aspect-based sentiment analysis 
+####  Subtask 5: cross-domain Aspect-based sentiment analysis 
 - **[EMNLP-19]**: Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification. [[paper]](https://arxiv.org/pdf/1908.09122v1.pdf)
 
-####  Subtask 5: Target-oriented Opinion Words Extraction
+####  Subtask 6: Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
