@@ -19,7 +19,6 @@
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
-------
 
 ## Paper List
 
@@ -33,7 +32,6 @@
 
 - **[ACL-19]**: Context-aware Embedding for Targeted Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/P19-1462.pdf)
 
-------
 
 ### SemEval-2014 Task 4(add some task)
 ####  Subtask 1: Aspect term extraction
