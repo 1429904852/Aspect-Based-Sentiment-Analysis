@@ -19,6 +19,9 @@
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
+### Targeted Sentiment Analysis(TSA)
+
+- **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 ## Paper List
 
