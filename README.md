@@ -56,7 +56,7 @@
 
 - **[ACL-19]**: Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification. [[paper]](https://www.aclweb.org/anthology/P19-1051.pdf) [[code]](https://github.com/huminghao16/SpanABSA)
 
-- **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [paper] [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
+- **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [[paper]](https://arxiv.org/pdf/1910.14192.pdf) [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
 
 #### Subtask 3: Aspect term polarity
@@ -158,7 +158,10 @@
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
-#### other(TSA)
+####  Subtask 7: Targeted Sentiment Analysis(TSA)
+
+- **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
+
 - **[EMNLP-18]**: Joint Learning for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1504.pdf)
 
 - **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
