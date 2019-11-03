@@ -159,8 +159,11 @@
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
 ####  Subtask 7: Targeted Sentiment Analysis(TSA)
+- **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 - **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
+
+- **[AAAI-17]**: Learning Latent Sentiment Scopes for Entity-Level Sentiment Analysis.[[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14931)
 
 - **[EMNLP-18]**: Joint Learning for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1504.pdf)
 
