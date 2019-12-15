@@ -160,6 +160,9 @@
 
 - **[EMNLP-19]**: Human-Like Decision Making: Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning. [[paper]](https://arxiv.org/pdf/1910.09260.pdf)
 
+- **[CIKM-19]**: Document-Level Multi-Aspect Sentiment Classification for Online Reviews of Medical Experts. [[paper]](http://dmkd.cs.vt.edu/papers/CIKM19a.pdf)
+
+
 ####  Subtask 5: Aspect sentiment analysis towards Question Answering
 - **[EMNLP-18]**: Sentiment Classification towards Question-Answering with Hierarchical Matching Network. [[paper]](https://www.aclweb.org/anthology/D18-1401.pdf)
 
