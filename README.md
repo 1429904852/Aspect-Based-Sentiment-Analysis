@@ -37,8 +37,19 @@
 
 
 ### SemEval-2014 Task 4(add some task)
-####  Subtask 1: Aspect term extraction
+
+####  Subtask 1: Unsupervised aspect extraction
 - **[ACL-17]**: An Unsupervised Neural Attention Model for Aspect Extraction. [[paper]](http://aclweb.org/anthology/P/P17/P17-1036.pdf) [[code]](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
+
+- **[EMNLP-18]**: Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised.[[paper]](https://arxiv.org/pdf/1808.08858.pdf)
+
+- **[IJCAI-19]**: Unsupervised Neural Aspect Extraction with Sememes.[[paper]](https://www.ijcai.org/proceedings/2019/0712.pdf)
+
+- **[EMNLP-19]**: Coupling Global and Local Context for Unsupervised Aspect Extraction.[[paper]](https://www.aclweb.org/anthology/D19-1465.pdf)
+
+- **[EMNLP-19]**: Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training.[[paper]](https://arxiv.org/pdf/1909.00415.pdf)
+
+####  Subtask 2: Aspect term extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
@@ -50,7 +61,7 @@
 
 - **[ACL-19]**: Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision.[[paper]](https://www.aclweb.org/anthology/P19-1520.pdf)[[code]](https://github.com/HKUST-KnowComp/RINANTE)
 
-####  Subtask 2: Aspect-polarity extraction
+####  Subtask 3: Aspect-polarity extraction
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
 
 - **[ACL-19]**: DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1056) [[code]](https://github.com/ArrowLuo/DOER)
@@ -63,7 +74,7 @@
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
 
-#### Subtask 3: Aspect term polarity
+#### Subtask 4: Aspect term polarity
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
 - **[NIPS-14-workshop]**: Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. [[paper]](https://pdfs.semanticscholar.org/4500/68221da8297ac0a0e1524b1e196900c61b2e.pdf)
@@ -145,7 +156,7 @@
 - **[arXiv-19]**: A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution. [[paper]](https://arxiv.org/pdf/1911.01460.pdf)
 
 
-#### Subtask 4: Multi-Aspect Sentiment Analysis
+#### Subtask 5: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
@@ -154,7 +165,7 @@
 
 - **[COLING-18]**: Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings. [[paper]](https://www.aclweb.org/anthology/C18-1079.pdf)[[code]](https://github.com/Junjieli0704/HUARN)
 
-- **[NAACL-19]**: A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. [[paper]](http://www.aclweb.org/anthology/N18-2043)[[code]](https://github.com/HKUST-KnowComp/VWS-DMSC)
+- **[NAACL-19]**: A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. [[paper]](https://arxiv.org/pdf/1904.05055.pdf)[[code]](https://github.com/HKUST-KnowComp/VWS-DMSC)
 
 - **[EMNLP-19]**: CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1812.10735.pdf)
 
@@ -163,19 +174,19 @@
 - **[CIKM-19]**: Document-Level Multi-Aspect Sentiment Classification for Online Reviews of Medical Experts. [[paper]](http://dmkd.cs.vt.edu/papers/CIKM19a.pdf)
 
 
-####  Subtask 5: Aspect sentiment analysis towards Question Answering
+####  Subtask 6: Aspect sentiment analysis towards Question Answering
 - **[EMNLP-18]**: Sentiment Classification towards Question-Answering with Hierarchical Matching Network. [[paper]](https://www.aclweb.org/anthology/D18-1401.pdf)
 
 - **[ACL-19]**: Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network. [[paper]](https://www.aclweb.org/anthology/P19-1345.pdf)
 
-####  Subtask 6: cross-domain Aspect-based sentiment analysis 
+####  Subtask 7: cross-domain Aspect-based sentiment analysis 
 - **[EMNLP-19]**: Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification. [[paper]](https://arxiv.org/pdf/1908.09122v1.pdf)
 
-####  Subtask 7: Target-oriented Opinion Words Extraction
+####  Subtask 8: Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
-####  Subtask 8: Targeted Sentiment Analysis(TSA)
+####  Subtask 9: Targeted Sentiment Analysis(TSA)
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 - **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
