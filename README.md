@@ -49,6 +49,8 @@
 
 - **[EMNLP-19]**: Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training.[[paper]](https://arxiv.org/pdf/1909.00415.pdf)
 
+- **[ACL-20]**: Embarrassingly Simple Unsupervised Aspect Extraction.[[paper]]()
+
 ####  Subtask 2: Aspect term extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
@@ -60,6 +62,8 @@
 - **[ACL-19]**: Exploring Sequence-to-Sequence Learning in Aspect Term Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1344)
 
 - **[ACL-19]**: Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision.[[paper]](https://www.aclweb.org/anthology/P19-1520.pdf)[[code]](https://github.com/HKUST-KnowComp/RINANTE)
+
+- **[ACL-20]**: Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation. [[paper]](https://arxiv.org/pdf/2004.14769.pdf)
 
 ####  Subtask 3: Aspect-polarity extraction
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
@@ -73,6 +77,14 @@
 - **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [[paper]](https://arxiv.org/pdf/1910.14192.pdf) [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
+
+- **[AAAI-20]**: Target-Aspect-Sentiment Joint Detection for Aspect-Based Sentiment Analysis. [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WanH.1150.pdf)[[code]](https://github.com/sysulic/TAS-BERT)
+
+- **[Arxiv-20]**: Jointly Modeling Aspect and Sentiment with Dynamic Heterogeneous Graph Neural Networks. [[paper]](https://arxiv.org/pdf/2004.06427.pdf)
+
+- **[Arxiv-20]**: An Iterative Knowledge Transfer Network with Routing for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.01935.pdf)
+
+- **[Arxiv-20]**: A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.01951.pdf)
 
 #### Subtask 4: Aspect term polarity
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
@@ -155,6 +167,21 @@
 
 - **[arXiv-19]**: A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution. [[paper]](https://arxiv.org/pdf/1911.01460.pdf)
 
+- **[AAAI-20]**:  Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment
+Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.pdf)[[code]](https://github.com/hiyouga/RepWalk)
+
+- **[arXiv-20]**: Exploiting Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network. [[paper]](https://arxiv.org/pdf/2002.09685.pdf)
+
+- **[ACL-20]**: Relational Graph Attention Network for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.12362.pdf)[[code]](https://github.com/shenwzh3/RGAT-ABSA)
+
+- **[ACL-20]**: Aspect Sentiment Classification with Document-level Sentiment Preference Modeling. [[paper]]()
+
+- **[ACL-20]**: Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification. [[paper]]()
+
+- **[ACL-20]**: Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis. [[paper]]()
+
+- **[ACL-20]**: Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis. [[paper]]()
+
 
 #### Subtask 5: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
@@ -185,6 +212,12 @@
 ####  Subtask 8: Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
+
+- **[AAAI-20]**: Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. [[paper]](https://arxiv.org/pdf/2001.01989.pdf)
+
+- **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]]()
+
+- **[ACL-20]**: Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. [[paper]]()
 
 ####  Subtask 9: Targeted Sentiment Analysis(TSA)
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
