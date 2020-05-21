@@ -1,4 +1,4 @@
-# Aspect-Based-Sentiment-Analysis
+# Aspect-Based-Sentiment-Analysis && Emotion-Cause Pair Extraction
 
 ## Datasets
 
@@ -19,6 +19,10 @@
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
+### Emotion-Cause Pair Extraction
+
+- **[ACL-19]**: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. [[paper]](https://www.aclweb.org/anthology/P19-1096.pdf) [[code]](https://github.com/NUSTM/ECPE)[[data]](https://github.com/NUSTM/ECPE/tree/master/data_combine)
+
 ### Targeted Sentiment Analysis(TSA)
 
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
@@ -35,6 +39,22 @@
 
 - **[ACL-19]**: Context-aware Embedding for Targeted Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/P19-1462.pdf)
 
+### Emotion-Cause Pair Extraction
+
+- **[ACL-19]**: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. [[paper]](https://www.aclweb.org/anthology/P19-1096.pdf) [[code]](https://github.com/NUSTM/ECPE)
+
+- **[Arxiv-20]**: End-to-end Emotion-Cause Pair Extraction via Learning to Link. [[paper]](https://arxiv.org/pdf/2002.10710.pdf)
+
+- **[Arxiv-20]**: ECSP: A New Task for Emotion-Cause Span-Pair Extraction and Classification
+. [[paper]](https://arxiv.org/pdf/2003.03507.pdf)
+
+- **[Neurocomputing-20]**: Joint Multi-level Attentional Model for Emotion Detection and Emotion-cause Pair Extraction. [[paper]](https://pdf.sciencedirectassets.com/271597/AIP/1-s2.0-S092523122030566X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDvGGHjuKW51z7oT2PyDfPMwGpZ9CPNi%2FQMsvRDWJNabQIhAMs1YK0KP01aZOEXIu3WR26Igdx%2B11L9sfDxrfegkAcMKrQDCCUQAxoMMDU5MDAzNTQ2ODY1IgycwRTbIBZVeZHedqAqkQMcKrAZfhwoR9xI6TFBBoZtH4GkcnO2bQivdHR9sqtemJsc6FjRfO%2B%2B1MUecHPIDHXqClyhVb8uK8eFKXVPUtjXq4Z%2FH%2BQkFNmS7Q4fLVziBLwXYCoQYGcNYnBCE5WmGK%2FiF%2FYURpQpFmitTHYlfIV0VnodnP%2B6UExSO0xnTrZxcf%2B4TBTiBDO7hRdkqhGlrSqRF1OpEQvxp5fKMXhJoEHETMySyqvkXFBRfKf0f3Y2FVI9GZXTbx0bokFy0xMkNInHfnsiVINnTKpnT97pJEwT4vnUsXIGlEJAtdz%2F23GjLGH42%2Bdpbazk0%2F89uxPDW3A%2FnY1Jga%2F%2FtqBl9Mj7CwTinTKJ6GqagUn0NndmdF%2F4XJsnRbnYycnD087FkPUI8Cf%2Fnwtb74hqAgpn6GbqhYao6dPLGWyfqJjF4cA9YyJYGYVSeF7CSk%2Bpq8M1X0Dlvt5zk2kfPsRudrO48dXOSi7WF5VJ0kqp20Fl%2FUMcsbRCxGrzVZBp0od020kuqNaJKIrPv4d%2FkdXfL%2B59%2B%2FrRHrSkbDDn9Zf2BTrqAYvgpdEHjjbHLmideJqInWWRNAloEBWi81LRNcb2ewEKcLwcuQ%2BRMtq85%2FxtoP9JllLmStDUuo6LKC3K%2B3PdXaK%2BVvyZaKl6AQgFUHWr1aIJs3SYyhU46PHoAvst6JR6Af2rvD%2Fw1RRuutEOf2tzBi4IwgoDsMu9avjD0gr%2B0%2FB8CLcqHdBgD7iq1XueDsxAs1DbFZVyPIzGfXliJ3gxk0aYKKgsdKWWTnBJhaNFKzhhRfwJRrf2qNqmhFf9S7Jx13J8ecuq%2Fiq7ZtiDL2H5iVyO8IpwUsUHdVetNNmDQMkeuGbbl8egLnmYrg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200521T051153Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6YQXFOVL%2F20200521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6aaa174944550b0d43f653eaed1a40702db4bc3a4e6af4f72ab9f26d39fec857&hash=10640ba5e11d24228f8ecd8d97505852736531c4d7b3c4785b69a5b8680f66ef&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S092523122030566X&tid=spdf-927c9896-940e-4856-b987-adbaf7e99ba4&sid=0d9db6c134b3d94ea688a6798916800fa61bgxrqa&type=client)
+
+- **[ACL-20]**: ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. [[paper]]()
+
+- **[ACL-20]**: Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. [[paper]]() 
+
+- **[ACL-20]**: Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. [[paper]]() 
 
 ### SemEval-2014 Task 4(add some task)
 
@@ -229,3 +249,4 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[EMNLP-18]**: Joint Learning for Targeted Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1504.pdf)
 
 - **[EMNLP-19]**: Learning Explicit and Implicit Structures for Targeted Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
+
