@@ -2,7 +2,7 @@
 
 ## Datasets
 
-### Aspect-based Sentiment Classification
+### Aspect-based Sentiment Analysis
 
 - **[SemEval-14]**: SemEval-2014 Task 4: Aspect Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/S14-2004) [[data]](https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014)
 
@@ -59,7 +59,7 @@
 
 - **[COLING-20]**: End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.17.pdf) 
 
-### SemEval-2014 Task 4(add some task)
+### SemEval-2014 Task 4
 
 ####  Subtask 1: Unsupervised aspect extraction
 - **[ACL-17]**: An Unsupervised Neural Attention Model for Aspect Extraction. [[paper]](http://aclweb.org/anthology/P/P17/P17-1036.pdf) [[code]](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
@@ -98,8 +98,6 @@
 
 - **[COLING-20]**: Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.158.pdf)
 
-
-####  Subtask 3: Aspect-polarity extraction
 - **[AAAI-19]**: A Unified Model for Opinion Target Extraction and Target Sentiment Prediction. [[paper]](https://arxiv.org/pdf/1811.05082.pdf) [[code]](https://github.com/lixin4ever/E2E-TBSA)
 
 - **[ACL-19]**: DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction. [[paper]](https://www.aclweb.org/anthology/P19-1056) [[code]](https://github.com/ArrowLuo/DOER)
@@ -120,7 +118,7 @@
 
 - **[Arxiv-20]**: A Dependency Syntactic Knowledge Augmented Interactive Architecture for End-to-End Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.01951.pdf)
 
-#### Subtask 4: Aspect-based sentiment analysis
+#### Subtask 3: Aspect-based sentiment analysis
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
 - **[NIPS-14-workshop]**: Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. [[paper]](https://pdfs.semanticscholar.org/4500/68221da8297ac0a0e1524b1e196900c61b2e.pdf)
@@ -255,7 +253,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[COLING-20]**:Building Large-Scale English and Korean Datasets for Aspect-Level　Sentiment Analysis in Automotive Domain. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.83.pdf)
 
 
-#### Subtask 5: Multi-Aspect Sentiment Analysis
+#### Subtask 4: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
@@ -275,18 +273,18 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[EMNLP-20]**: Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.570.pdf)
 
 
-####  Subtask 6: Aspect sentiment analysis towards Question Answering
+####  Subtask 5: Aspect Sentiment Analysis Towards Question Answering
 - **[EMNLP-18]**: Sentiment Classification towards Question-Answering with Hierarchical Matching Network. [[paper]](https://www.aclweb.org/anthology/D18-1401.pdf)
 
 - **[ACL-19]**: Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network. [[paper]](https://www.aclweb.org/anthology/P19-1345.pdf)
 
-####  Subtask 7: Cross-domain Aspect-based sentiment analysis 
+####  Subtask 6: Cross-domain Aspect-based Sentiment Analysis 
 - **[EMNLP-19]**: Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification. [[paper]](https://arxiv.org/pdf/1908.09122v1.pdf)
 
 - **[EMNLP-20]**: Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
 
 
-####  Subtask 8: Target-oriented Opinion Words Extraction
+####  Subtask 7: Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
@@ -305,7 +303,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[Finding of EMNLP-20]**: Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
 
 
-####  Subtask 9: Targeted Sentiment Analysis(TSA)
+####  Subtask 8: Targeted Sentiment Analysis
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 - **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
@@ -319,7 +317,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[Finding of EMNLP-20]**: A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
 
 
-####  Subtask 10: Targeted aspect based sentiment analysis
+####  Subtask 9: Targeted-based Sentiment Analysis
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
