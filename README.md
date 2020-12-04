@@ -250,8 +250,6 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[COLING-20]**:Label Correction Model for Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.71.pdf)
 
-- **[COLING-20]**:Label Correction Model for Aspect-based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.71.pdf)
-
 - **[COLING-20]**:Aspect-Category based Sentiment Analysis with Hierarchical Graph　Convolutional Network. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.72.pdf)
 
 - **[COLING-20]**:Building Large-Scale English and Korean Datasets for Aspect-Level　Sentiment Analysis in Automotive Domain. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.83.pdf)
