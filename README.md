@@ -183,7 +183,7 @@
 
 - **[EMNLP-19]**: Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks. [[paper]](https://arxiv.org/pdf/1909.03477.pdf) [[code]](https://github.com/GeneZC/ASGCN)
 
-- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [[paper]](https://www.aclweb.org/anthology/D19-1569.pdf)
+- **[EMNLP-19]**: Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree. [[paper]](https://www.aclweb.org/anthology/D19-1569.pdf) [[code]](https://github.com/BDBC-KG-NLP/Covolution_over_Dependency_Tree_EMNLP2019)
 
 - **[EMNLP-19]**: Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification. [[paper]](https://www.aclweb.org/anthology/D19-1551.pdf)
 
