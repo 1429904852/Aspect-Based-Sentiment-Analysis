@@ -8,7 +8,11 @@
 
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
+- **[EMNLP-18]**: Document-level multi-aspect sentiment classification as machine comprehension. [[paper]](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-AspectClassification.pdf) [[code]](https://github.com/HKUST-KnowComp/DMSC)
+
 - **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/pdf/A_Challenge_Dataset_and_Effective_Models_for_Aspect_Based_Sentiment_Analysis.pdf) [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
+
+- **[NAACL-21]**: ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction. [[paper]](https://aclanthology.org/2021.naacl-main.167.pdf)[[code]](https://github.com/Meituan-Dianping/asap)
 
 ### Targeted-based Sentiment Analysis
 
