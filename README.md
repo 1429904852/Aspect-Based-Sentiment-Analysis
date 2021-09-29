@@ -31,19 +31,17 @@
 
 - **[EMNLP-20]**: Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis.[[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.292.pdf)
 
-### Aspect-Opinion Pair Extraction
+### Aspect-Opinion Pair/Triplet/Quadruple Extraction
 - **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
 
 - **[ACL-20]**: Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582.pdf)
 
-### Aspect Sentiment Triplet Extraction
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
 
 - **[EMNLP-20]**: Position-Aware Tagging for Aspect Sentiment Triplet Extraction. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf)
 
 - **[Finding of EMNLP-20]**: Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
 
-### Aspect Sentiment Quadruple Extraction
 - **[ACL-21]**: Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
 
 ### Emotion-cause Pair Extraction
@@ -338,6 +336,12 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[AAAI-20]**: Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. [[paper]](https://arxiv.org/pdf/2001.01989.pdf)
 
+- **[EMNLP-20]**: Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
+
+- **[TACL-21]**: Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf)[[code]](https://github.com/wcwowwwww/towe-eacl)
+
+#### Subtask 8: Aspect-Opinion Pair/Triplet/Quadruple Extraction
+
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
 
 - **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
@@ -348,8 +352,6 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[EMNLP-20]**: Deep Weighted MaxSAT for Aspect-based Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.453.pdf)
 
-- **[EMNLP-20]**: Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
-
 - **[Finding of EMNLP-20]**: Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
 
 - **[ACL-21]**: Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
@@ -358,7 +360,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[Finding of ACL-21]**: Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.findings-acl.128.pdf) 
 
-####  Subtask 8: Targeted Sentiment Analysis
+####  Subtask 9: Targeted Sentiment Analysis
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 - **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
@@ -371,7 +373,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[Finding of EMNLP-20]**: A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
 
-####  Subtask 9: Targeted-based Sentiment Analysis
+####  Subtask 10: Targeted-based Sentiment Analysis
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
