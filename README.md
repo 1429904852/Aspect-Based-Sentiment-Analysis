@@ -114,8 +114,6 @@
 
 - **[EMNLP-19]**: Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning. [[paper]](https://arxiv.org/pdf/1910.14192.pdf) [[code]](https://github.com/hsqmlzno1/Transferable-E2E-ABSA)
 
-- **[AAAI-20]**: Target-Aspect-Sentiment Joint Detection for Aspect-Based Sentiment Analysis. [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WanH.1150.pdf)[[code]](https://github.com/sysulic/TAS-BERT)
-
 - **[Arxiv-20]**: Jointly Modeling Aspect and Sentiment with Dynamic Heterogeneous Graph Neural Networks. [[paper]](https://arxiv.org/pdf/2004.06427.pdf)
 
 - **[Arxiv-20]**: An Iterative Knowledge Transfer Network with Routing for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/2004.01935.pdf)
@@ -336,13 +334,15 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[AAAI-20]**: Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction. [[paper]](https://arxiv.org/pdf/2001.01989.pdf)
 
-- **[EMNLP-20]**: Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
+- **[EMNLP-20]**: Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning. [[paper]](https://aclanthology.org/2020.emnlp-main.719.pdf)
 
 - **[TACL-21]**: Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf)[[code]](https://github.com/wcwowwwww/towe-eacl)
 
 #### Subtask 8: Aspect-Opinion Pair/Triplet/Quadruple Extraction
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
+
+- **[AAAI-20]**: Target-Aspect-Sentiment Joint Detection for Aspect-Based Sentiment Analysis. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6447)[[code]](https://github.com/sysulic/TAS-BERT)
 
 - **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
 
