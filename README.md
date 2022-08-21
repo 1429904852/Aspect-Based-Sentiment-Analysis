@@ -1,4 +1,4 @@
-# Aspect-Based-Sentiment-Analysis && Emotion-Cause Pair Extraction
+# Aspect-Based-Sentiment-Analysis
 
 ## Datasets
 
@@ -44,40 +44,9 @@
 
 - **[ACL-21]**: Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
 
-### Emotion-cause Pair Extraction
-
-- **[ACL-19]**: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. [[paper]](https://www.aclweb.org/anthology/P19-1096.pdf) [[code]](https://github.com/NUSTM/ECPE)[[data]](https://github.com/NUSTM/ECPE/tree/master/data_combine)
-
 ## Paper List
 
-### Emotion-Cause Pair Extraction
-
-- **[ACL-19]**: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. [[paper]](https://www.aclweb.org/anthology/P19-1096.pdf) [[code]](https://github.com/NUSTM/ECPE)
-
-- **[Arxiv-20]**: End-to-end Emotion-Cause Pair Extraction via Learning to Link. [[paper]](https://arxiv.org/pdf/2002.10710.pdf)
-
-- **[Arxiv-20]**: ECSP: A New Task for Emotion-Cause Span-Pair Extraction and Classification
-. [[paper]](https://arxiv.org/pdf/2003.03507.pdf)
-
-- **[Neurocomputing-20]**: Joint Multi-level Attentional Model for Emotion Detection and Emotion-cause Pair Extraction. [[paper]](https://pdf.sciencedirectassets.com/271597/AIP/1-s2.0-S092523122030566X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDvGGHjuKW51z7oT2PyDfPMwGpZ9CPNi%2FQMsvRDWJNabQIhAMs1YK0KP01aZOEXIu3WR26Igdx%2B11L9sfDxrfegkAcMKrQDCCUQAxoMMDU5MDAzNTQ2ODY1IgycwRTbIBZVeZHedqAqkQMcKrAZfhwoR9xI6TFBBoZtH4GkcnO2bQivdHR9sqtemJsc6FjRfO%2B%2B1MUecHPIDHXqClyhVb8uK8eFKXVPUtjXq4Z%2FH%2BQkFNmS7Q4fLVziBLwXYCoQYGcNYnBCE5WmGK%2FiF%2FYURpQpFmitTHYlfIV0VnodnP%2B6UExSO0xnTrZxcf%2B4TBTiBDO7hRdkqhGlrSqRF1OpEQvxp5fKMXhJoEHETMySyqvkXFBRfKf0f3Y2FVI9GZXTbx0bokFy0xMkNInHfnsiVINnTKpnT97pJEwT4vnUsXIGlEJAtdz%2F23GjLGH42%2Bdpbazk0%2F89uxPDW3A%2FnY1Jga%2F%2FtqBl9Mj7CwTinTKJ6GqagUn0NndmdF%2F4XJsnRbnYycnD087FkPUI8Cf%2Fnwtb74hqAgpn6GbqhYao6dPLGWyfqJjF4cA9YyJYGYVSeF7CSk%2Bpq8M1X0Dlvt5zk2kfPsRudrO48dXOSi7WF5VJ0kqp20Fl%2FUMcsbRCxGrzVZBp0od020kuqNaJKIrPv4d%2FkdXfL%2B59%2B%2FrRHrSkbDDn9Zf2BTrqAYvgpdEHjjbHLmideJqInWWRNAloEBWi81LRNcb2ewEKcLwcuQ%2BRMtq85%2FxtoP9JllLmStDUuo6LKC3K%2B3PdXaK%2BVvyZaKl6AQgFUHWr1aIJs3SYyhU46PHoAvst6JR6Af2rvD%2Fw1RRuutEOf2tzBi4IwgoDsMu9avjD0gr%2B0%2FB8CLcqHdBgD7iq1XueDsxAs1DbFZVyPIzGfXliJ3gxk0aYKKgsdKWWTnBJhaNFKzhhRfwJRrf2qNqmhFf9S7Jx13J8ecuq%2Fiq7ZtiDL2H5iVyO8IpwUsUHdVetNNmDQMkeuGbbl8egLnmYrg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200521T051153Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6YQXFOVL%2F20200521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6aaa174944550b0d43f653eaed1a40702db4bc3a4e6af4f72ab9f26d39fec857&hash=10640ba5e11d24228f8ecd8d97505852736531c4d7b3c4785b69a5b8680f66ef&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S092523122030566X&tid=spdf-927c9896-940e-4856-b987-adbaf7e99ba4&sid=0d9db6c134b3d94ea688a6798916800fa61bgxrqa&type=client)
-
-- **[ACL-20]**: ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction. [[paper]]()
-
-- **[ACL-20]**: Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.289.pdf) 
-
-- **[ACL-20]**: Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.342.pdf) 
-
-- **[EMNLP-20]**: Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.289.pdf) 
-
-- **[EMNLP-20]**: End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.290.pdf) 
-
-- **[COLING-20]**: A Symmetric Local Search Network for Emotion-Cause Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.12.pdf) 
-
-- **[COLING-20]**: End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network. [[paper]](https://www.aclweb.org/anthology/2020.coling-main.17.pdf) 
-
-### SemEval-2014 Task 4
-
-####  Subtask 1: Unsupervised aspect extraction
+###  Subtask 1: Unsupervised aspect extraction
 - **[ACL-17]**: An Unsupervised Neural Attention Model for Aspect Extraction. [[paper]](http://aclweb.org/anthology/P/P17/P17-1036.pdf) [[code]](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
 
 - **[EMNLP-18]**: Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised.[[paper]](https://arxiv.org/pdf/1808.08858.pdf)
@@ -92,7 +61,7 @@
 
 - **[EMNLP-20]**: Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.568.pdf)
 
-####  Subtask 2: Aspect term extraction
+###  Subtask 2: Aspect term extraction
 
 - **[AAAI-17]**: Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. [[paper]](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf)
 
@@ -133,7 +102,7 @@
 - **[ACL-21]**: Bridge-Based Active Domain Adaptation for Aspect Term Extraction. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)[[code]](https://github.com/NLPWM-WHU/BRIDGE)
 
 
-#### Subtask 3: Aspect-based sentiment analysis
+### Subtask 3: Aspect-level sentiment classification
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
 - **[NIPS-14-workshop]**: Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. [[paper]](https://pdfs.semanticscholar.org/4500/68221da8297ac0a0e1524b1e196900c61b2e.pdf)
@@ -295,7 +264,22 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[Finding of ACL-21]**:Cross-Domain Review Generation for Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf)
 
-#### Subtask 4: Multi-Aspect Sentiment Analysis
+- **[EMNLP-21]**:Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge. [[paper]](https://aclanthology.org/2021.emnlp-main.19.pdf)[[code]](https://github.com/BinLiang-NLP/AAGCN-ACSA)
+
+- **[EMNLP-21]**:Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training. [[paper]](https://aclanthology.org/2021.emnlp-main.22.pdf)[[code]](https://github.com/Tribleave/SCAPT-ABSA)
+
+- **[EMNLP-21]**:To be Closer: Learning to Link up Aspects with Opinions. [[paper]](https://aclanthology.org/2021.emnlp-main.317.pdf)[[code]](https://github.com/zyxnlp/ACLT)
+
+- **[EMNLP-21]**:Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories. [[paper]](https://aclanthology.org/2021.emnlp-main.321.pdf)[[code]](https://github.com/cuhksz-nlp/ASA-TM)
+
+- **[EMNLP-21]**:Solving Aspect Category Sentiment Analysis as a Text Generation Task. [[paper]](https://aclanthology.org/2021.emnlp-main.361.pdf)[[code]](https://github.com/lgw863/ACSA-generation)
+
+- **[EMNLP-21]**:CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks. [[paper]](https://aclanthology.org/2021.emnlp-main.550.pdf)[[code]](https://github.com/ZixuanKe/PyContinual)
+
+- **[EMNLP-21]**:BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification. [[paper]](https://aclanthology.org/2021.emnlp-main.724.pdf)
+
+
+### Subtask 4: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
@@ -317,18 +301,18 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[NAACL-21]**: ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction. [[paper]](https://aclanthology.org/2021.naacl-main.167.pdf)[[code]](https://github.com/Meituan-Dianping/asap)
 
 
-####  Subtask 5: Aspect Sentiment Analysis Towards Question Answering
+###  Subtask 5: Aspect Sentiment Analysis Towards Question Answering
 - **[EMNLP-18]**: Sentiment Classification towards Question-Answering with Hierarchical Matching Network. [[paper]](https://www.aclweb.org/anthology/D18-1401.pdf)
 
 - **[ACL-19]**: Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network. [[paper]](https://www.aclweb.org/anthology/P19-1345.pdf)
 
-####  Subtask 6: Cross-domain Aspect-based Sentiment Analysis 
+###  Subtask 6: Cross-domain Aspect-based Sentiment Analysis 
 - **[EMNLP-19]**: Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification. [[paper]](https://arxiv.org/pdf/1908.09122v1.pdf)
 
 - **[EMNLP-20]**: Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
 
 
-####  Subtask 7: Target-oriented Opinion Words Extraction
+###  Subtask 7: Target-oriented Opinion Words Extraction
 
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused NeuralSequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[code]](https://github.com/NJUNLP/TOWE)
 
@@ -338,7 +322,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[TACL-21]**: Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf)[[code]](https://github.com/wcwowwwww/towe-eacl)
 
-#### Subtask 8: Aspect-Opinion Pair/Triplet/Quadruple Extraction
+### Subtask 8: Aspect-Opinion Pair/Triplet/Quadruple Extraction
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
 
@@ -360,7 +344,14 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[Finding of ACL-21]**: Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.findings-acl.128.pdf) 
 
-####  Subtask 9: Targeted Sentiment Analysis
+- **[EMNLP-21]**: Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model. [[paper]](https://aclanthology.org/2021.emnlp-main.318.pdf) 
+
+- **[EMNLP-21]**: Aspect Sentiment Quad Prediction as Paraphrase Generation. [[paper]](https://aclanthology.org/2021.emnlp-main.726.pdf) [[code]](https://github.com/IsakZhang/ABSA-QUAD)
+
+- **[EMNLP-21]**: PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.emnlp-main.731.pdf) [[code]](https://github.com/rajdeep345/PASTE/)
+
+
+###  Subtask 9: Targeted Sentiment Analysis
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
 
 - **[EMNLP-16]**: Neural Networks for Open Domain Targeted Sentiment.[[paper]](https://pdfs.semanticscholar.org/0d4f/ef0ef83c6bad2e14fe4a4880fa153f550974.pdf)
@@ -373,7 +364,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[Finding of EMNLP-20]**: A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1909.07593.pdf) [[code]](https://github.com/leodotnet/ei)
 
-####  Subtask 10: Targeted-based Sentiment Analysis
+###  Subtask 10: Targeted-based Sentiment Analysis
 
 - **[COLING-16]**: Sentihood: Targeted aspect based sentiment analysis dataset for urban neighbourhoods. [[paper]](https://www.aclweb.org/anthology/C16-1146) [[data]](https://github.com/uclmr/jack/tree/master/data/sentihood)
 
