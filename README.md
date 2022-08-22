@@ -2,7 +2,7 @@
 
 ## Datasets
 
-### Aspect-based Sentiment Analysis
+### Aspect-level sentiment classification
 
 - **[SemEval-14]**: SemEval-2014 Task 4: Aspect Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/S14-2004) [[data]](https://github.com/ThomasK427/aspect_extraction/tree/master/data/official_data/SemEval-2014)
 
@@ -278,6 +278,17 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[EMNLP-21]**:BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification. [[paper]](https://aclanthology.org/2021.emnlp-main.724.pdf)
 
+- **[ACL-22]**:Discrete Opinion Tree Induction for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.145.pdf)[[code]](https://github.com/CCSoleil/dotGCN)
+
+- **[Finding of ACL-22]**:Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.findings-acl.3.pdf)
+
+- **[Finding of ACL-22]**:BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.findings-acl.144.pdf)
+
+- **[Finding of ACL-22]**:Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.findings-acl.285.pdf)
+
+- **[NAACL-22]**: Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.naacl-main.115.pdf)
+
+- **[NAACL-22]**: SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.naacl-main.362.pdf)[[code]](https://github.com/zhangzheng1997/SSEGCN-ABSA)
 
 ### Subtask 4: Multi-Aspect Sentiment Analysis
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
@@ -311,6 +322,8 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[EMNLP-20]**: Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
 
+- **[NAACL-22]**: Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction. [[paper]](https://aclanthology.org/2022.naacl-main.312.pdf)[[code]](https://github.com/NUSTM/GCDDA)
+
 
 ###  Subtask 7: Target-oriented Opinion Words Extraction
 
@@ -342,6 +355,9 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[ACL-21]**: Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.acl-long.367.pdf) [[code]](https://github.com/chiayewken/Span-ASTE)
 
+- **[ACL-22]**: Enhanced Multi-Channel Graph Convolutional Network for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2022.acl-long.212.pdf) [[code]](https://github.com/CCChenhao997/EMCGCN-ASTE)
+
+
 - **[Finding of ACL-21]**: Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.findings-acl.128.pdf) 
 
 - **[EMNLP-21]**: Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model. [[paper]](https://aclanthology.org/2021.emnlp-main.318.pdf) 
@@ -349,6 +365,8 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[EMNLP-21]**: Aspect Sentiment Quad Prediction as Paraphrase Generation. [[paper]](https://aclanthology.org/2021.emnlp-main.726.pdf) [[code]](https://github.com/IsakZhang/ABSA-QUAD)
 
 - **[EMNLP-21]**: PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.emnlp-main.731.pdf) [[code]](https://github.com/rajdeep345/PASTE/)
+
+- **[NAACL-22]**: A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2022.naacl-main.20.pdf) [[code]](https://github.com/ITKaven/RoBMRC)
 
 
 ###  Subtask 9: Targeted Sentiment Analysis
