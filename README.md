@@ -47,6 +47,7 @@
 ## Paper List
 
 ###  Subtask 1: Unsupervised aspect extraction
+
 - **[ACL-17]**: An Unsupervised Neural Attention Model for Aspect Extraction. [[paper]](http://aclweb.org/anthology/P/P17/P17-1036.pdf) [[code]](https://github.com/ruidan/Unsupervised-Aspect-Extraction)
 
 - **[EMNLP-18]**: Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised.[[paper]](https://arxiv.org/pdf/1808.08858.pdf)
@@ -101,8 +102,8 @@
 
 - **[ACL-21]**: Bridge-Based Active Domain Adaptation for Aspect Term Extraction. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)[[code]](https://github.com/NLPWM-WHU/BRIDGE)
 
-
 ### Subtask 3: Aspect-level sentiment classification
+
 - **[ACL-14]**: Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. [[paper]](http://aclweb.org/anthology/P/P14/P14-2009.pdf) [[data]](https://github.com/songyouwei/ABSA-PyTorch/tree/master/datasets/acl-14-short-data)
 
 - **[NIPS-14-workshop]**: Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. [[paper]](https://pdfs.semanticscholar.org/4500/68221da8297ac0a0e1524b1e196900c61b2e.pdf)
@@ -291,6 +292,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[NAACL-22]**: SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.naacl-main.362.pdf)[[code]](https://github.com/zhangzheng1997/SSEGCN-ABSA)
 
 ### Subtask 4: Multi-Aspect Sentiment Analysis
+
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
 
 - **[EMNLP-18]**: IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis. [[paper]](https://www.aclweb.org/anthology/D18-1377.pdf) [[code]](https://github.com/senticnet/IARM)
@@ -311,8 +313,8 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[NAACL-21]**: ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction. [[paper]](https://aclanthology.org/2021.naacl-main.167.pdf)[[code]](https://github.com/Meituan-Dianping/asap)
 
-
 ###  Subtask 5: Aspect Sentiment Analysis Towards Question Answering
+
 - **[EMNLP-18]**: Sentiment Classification towards Question-Answering with Hierarchical Matching Network. [[paper]](https://www.aclweb.org/anthology/D18-1401.pdf)
 
 - **[ACL-19]**: Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network. [[paper]](https://www.aclweb.org/anthology/P19-1345.pdf)
@@ -324,6 +326,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[NAACL-22]**: Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction. [[paper]](https://aclanthology.org/2022.naacl-main.312.pdf)[[code]](https://github.com/NUSTM/GCDDA)
 
+- **[SIGIR-22]**: Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification. [[paper]](https://arxiv.org/pdf/2205.08772.pdf)
 
 ###  Subtask 7: Target-oriented Opinion Words Extraction
 
@@ -357,7 +360,6 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[ACL-22]**: Enhanced Multi-Channel Graph Convolutional Network for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2022.acl-long.212.pdf) [[code]](https://github.com/CCChenhao997/EMCGCN-ASTE)
 
-
 - **[Finding of ACL-21]**: Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2021.findings-acl.128.pdf) 
 
 - **[EMNLP-21]**: Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model. [[paper]](https://aclanthology.org/2021.emnlp-main.318.pdf) 
@@ -368,6 +370,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[NAACL-22]**: A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2022.naacl-main.20.pdf) [[code]](https://github.com/ITKaven/RoBMRC)
 
+- **[KDD-22]**: Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539386) [[code]](https://github.com/kulkarniadithya/ODAO)
 
 ###  Subtask 9: Targeted Sentiment Analysis
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
