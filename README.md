@@ -291,6 +291,8 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[NAACL-22]**: SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.naacl-main.362.pdf)[[code]](https://github.com/zhangzheng1997/SSEGCN-ABSA)
 
+- **[SIGIR-22]**: Aspect Feature Distillation and Enhancement Network for Aspect-based Sentiment Analysis. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531938)
+
 ### Subtask 4: Multi-Aspect Sentiment Analysis
 
 - **[NAACL-18]**: Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. [[paper]](http://www.aclweb.org/anthology/N18-2043)
@@ -371,6 +373,8 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[NAACL-22]**: A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction. [[paper]](https://aclanthology.org/2022.naacl-main.20.pdf) [[code]](https://github.com/ITKaven/RoBMRC)
 
 - **[KDD-22]**: Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539386) [[code]](https://github.com/kulkarniadithya/ODAO)
+
+- **[SIGIR-22]**: IAOTP: An Interactive End-to-End Solution for Aspect-Opinion Term Pairs Extraction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539386)
 
 ###  Subtask 9: Targeted Sentiment Analysis
 - **[EMNLP-13]**: Open Domain Targeted Sentiment.[[paper]](https://www.aclweb.org/anthology/D13-1171.pdf)
