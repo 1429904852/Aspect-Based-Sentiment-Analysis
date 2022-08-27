@@ -8,7 +8,7 @@
   - [Subtask 4: Multi-Aspect Sentiment Analysis](#Subtask-4-Multi-Aspect-Sentiment-Analysis)
   - [Subtask 5: Cross-domain Aspect-based Sentiment Analysis](#Subtask-5-Cross-domain-Aspect-based-Sentiment-Analysis) 
   - [Subtask 6: Target-oriented Opinion Words Extraction](#Subtask-6-Target-oriented-Opinion-Words-Extraction)
-  - [Subtask 7: Aspect-Opinion Pair/Triplet/Quadruple Extraction](#Subtask-7-Aspect-Opinion-Pair/Triplet/Quadruple-Extraction)
+  - [Subtask 7: Aspect-Opinion Pair/Triplet/Quadruple Extraction](#Subtask-7-Aspect-Opinion-Pair-Triplet-Quadruple-Extraction)
   - [Subtask 8: Targeted Sentiment Analysis](#Subtask-8-Targeted-Sentiment-Analysis)
   - [Subtask 9: Targeted-based Sentiment Analysis](#Subtask-9-Targeted-based-Sentiment-Analysis)
 
