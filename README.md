@@ -7,7 +7,7 @@
   - [Subtask 3: Document-level Multi-Aspect Sentiment Analysis](#Subtask-3-Document-level-Multi-Aspect-Sentiment-Analysis)
   - [Subtask 4: Cross-domain Aspect-based Sentiment Analysis](#Subtask-4-Cross-domain-Aspect-based-Sentiment-Analysis) 
   - [Subtask 5: Target-oriented Opinion Words Extraction](#Subtask-5-Target-oriented-Opinion-Words-Extraction)
-  - [Subtask 6: Aspect Pair/Triplet/Quadruple Extraction](#Subtask-6-Aspect-Pair-Triplet-Quadruple-Extraction)
+  - [Subtask 6: Aspect Pair-Triplet-Quadruple Extraction](#Subtask-6-Aspect-Pair-Triplet-Quadruple-Extraction)
   - [Subtask 7: Multimodal Aspect-Based Sentiment Analysis](#Subtask-7-Multimodal-Aspect-Based-Sentiment-Analysis)
 
 ## Datasets
@@ -342,7 +342,7 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[TACL-21]**: Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf)[[code]](https://github.com/wcwowwwww/towe-eacl)
 
-### Subtask 6: Aspect Pair/Triplet/Quadruple Extraction
+### Subtask 6: Aspect Pair-Triplet-Quadruple Extraction
 
 - **[AAAI-20]**: Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis. [[paper]](https://arxiv.org/pdf/1911.01616.pdf)
 
@@ -379,3 +379,27 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[SIGIR-22]**: IAOTP: An Interactive End-to-End Solution for Aspect-Opinion Term Pairs Extraction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539386)
 
 ### Subtask 7: Multimodal Aspect-Based Sentiment Analysis
+
+- **[ACL-20]**: Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf) [[code]](https://github.com/jefferyYu/UMT)
+
+- **[ACMMM-20]**: Multimodal Representation with Embedded Visual Guiding Objects for Named Entity Recognition in Social Media Posts. [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413650) 
+
+- **[AAAI-21]**: RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf) [[code]](https://github.com/Multimodal-NER/RpBERT)
+
+- **[AAAI-21]**: Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf) [[code]](https://github.com/TransformersWsz/UMGF)
+
+- **[NAACL-22]**: ITA: Image-Text Alignments for Multi-Modal Named Entity Recognitione. [[paper]](https://arxiv.org/pdf/2112.06482.pdf) [[code]](https://github.com/Alibaba-NLP/KB-NER/tree/main/ITA)
+
+- **[WSDM-22]**: MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition. [[paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498475?casa_token=mgnoLxqNY6sAAAAA%3AV6QKO_hH7_RkHeeDThokhq6vgRFdRqdepH9ZTPt5Ft1T9Qmj-KK4HPkoWI0TDn1I4nf-K15EaScVOg)
+
+- **[SIGIR-22]**: Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion. [[paper]](https://arxiv.org/pdf/2205.02357.pdf) [[code]](https://github.com/zjunlp/MKGformer)
+
+- **[IJCAI-19]**: Adapting BERT for Target-Oriented Multimodal Sentiment Classification. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
+
+- **[ACMMM-21]**: Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation. [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
+
+- **[IJCAI-22]**: Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching. [[paper]](https://www.ijcai.org/proceedings/2022/0622.pdf) [[code]](https://github.com/NUSTM/ITM)
+
+- **[EMNLP-21]**: Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation Detection. [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
+
+- **[ACL-22]**: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
