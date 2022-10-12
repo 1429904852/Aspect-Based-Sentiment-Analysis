@@ -9,6 +9,7 @@
   - [Subtask 5: Target-oriented Opinion Words Extraction](#Subtask-5-Target-oriented-Opinion-Words-Extraction)
   - [Subtask 6: Aspect Pair-Triplet-Quadruple Extraction](#Subtask-6-Aspect-Pair-Triplet-Quadruple-Extraction)
   - [Subtask 7: Multimodal Aspect-Based Sentiment Analysis](#Subtask-7-Multimodal-Aspect-Based-Sentiment-Analysis)
+  - [Subtask 8: Few-shot Aspect-Based Sentiment Analysis](#Subtask-8-Few-shot-Aspect-Based-Sentiment-Analysis)
 
 ## Datasets
 
@@ -42,6 +43,12 @@
 - **[Finding of EMNLP-20]**: Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
 
 - **[ACL-21]**: Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
+
+
+### Few-shot Aspect Category Detection
+
+- **[ACL-21]**: Multi-Label Few-Shot Learning for Aspect Category Detection. [[paper]](https://aclanthology.org/2021.acl-long.495.pdf)
+
 
 ### ARTS(Adversarial datasets)
 
@@ -394,12 +401,23 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[SIGIR-22]**: Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion. [[paper]](https://arxiv.org/pdf/2205.02357.pdf) [[code]](https://github.com/zjunlp/MKGformer)
 
+- **[ACMMM-22]**: Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER. [[paper]](https://dl.acm.org/doi/10.1145/3503161.3548228) [[code]](https://github.com/1429904852/R-GCN)
+
 - **[IJCAI-19]**: Adapting BERT for Target-Oriented Multimodal Sentiment Classification. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 - **[ACMMM-21]**: Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation. [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
 
 - **[IJCAI-22]**: Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching. [[paper]](https://www.ijcai.org/proceedings/2022/0622.pdf) [[code]](https://github.com/NUSTM/ITM)
 
+- **[COLING-22]**: Learning from Adjective-Noun Pairs: A Knowledge-enhanced Framework for Target-Oriented Multimodal Sentiment Classification. [[paper]](https://aclanthology.org/2022.coling-1.590.pdf) [[code]](https://github.com/1429904852/KEF)
+
+
 - **[EMNLP-21]**: Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation Detection. [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
 
 - **[ACL-22]**: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
+
+### Subtask 8: Few-shot Aspect-Based Sentiment Analysis
+
+- **[ACL-21]**: Multi-Label Few-Shot Learning for Aspect Category Detection. [[paper]](https://aclanthology.org/2021.acl-long.495.pdf)
+
+- **[Finding of EMNLP 2022]**: Label-Driven Denoising Framework for Multi-Label Few-Shot Aspect Category Detection. [[paper]](https://arxiv.org/pdf/2210.04220.pdf)[[code]](https://github.com/1429904852/LDF)
