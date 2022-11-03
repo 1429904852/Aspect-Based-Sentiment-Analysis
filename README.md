@@ -1,4 +1,6 @@
 # Aspect-Based-Sentiment-Analysis
+![](https://img.shields.io/badge/Sentiment--Analysis-green)
+![](https://img.shields.io/badge/Aspect--Based--Sentiment--Analysis-red)
 
 This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly encourage the NLP researchers who are interested in this topic to make pull request to add or update the papers.
 
@@ -431,3 +433,9 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[EMNLP-21]**: Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation Detection. [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)![](https://img.shields.io/badge/Multi--Modal--Aspect--Sentiment--Analysis-blue)
 
 - **[ACL-22]**: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)![](https://img.shields.io/badge/Multi--Modal--Aspect--Sentiment--Analysis-blue)
+
+### Contributors
+
+<a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=1429904852/Aspect-Based-Sentiment-Analysis" />
+</a>
