@@ -1,6 +1,6 @@
 # Aspect-Based-Sentiment-Analysis
 
-This is a curated list of "Aspect-Based-Sentiment-Analysis" papers, which is mainly maintained by Fei Zhao. We strongly encourage the NLP researchers who are interested in this topic to make pull request to add or update the papers.
+This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly encourage the NLP researchers who are interested in this topic to make pull request to add or update the papers.
 
 ## Contents
   - [Datasets](#datasets)
