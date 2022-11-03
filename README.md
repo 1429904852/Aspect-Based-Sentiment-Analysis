@@ -17,9 +17,9 @@ This is a curated list of "Aspect-Based-Sentiment-Analysis (ABSA)" papers, which
     - [Subtask 4: Cross-domain Aspect-based Sentiment Analysis](#Subtask-4-Cross-domain-Aspect-based-Sentiment-Analysis) 
     - [Subtask 5: Target-oriented Opinion Words Extraction](#Subtask-5-Target-oriented-Opinion-Words-Extraction)
     - [Subtask 6: Aspect Pair-Triplet-Quadruple Extraction](#Subtask-6-Aspect-Pair-Triplet-Quadruple-Extraction)
-    - [Subtask 7: Multimodal Aspect-Based Sentiment Analysis](#Subtask-7-Multimodal-Aspect-Based-Sentiment-Analysis)
-    - [Subtask 8: Few-shot Aspect-Based Sentiment Analysis](#Subtask-8-Few-shot-Aspect-Based-Sentiment-Analysis)
-  
+    - [Subtask 7: Few-shot Aspect-Based Sentiment Analysis](#Subtask-8-Few-shot-Aspect-Based-Sentiment-Analysis)
+    - [Subtask 8: Multimodal Aspect-Based Sentiment Analysis](#Subtask-7-Multimodal-Aspect-Based-Sentiment-Analysis)
+     
 
 ## Datasets
 
@@ -395,7 +395,13 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[SIGIR-22]**: IAOTP: An Interactive End-to-End Solution for Aspect-Opinion Term Pairs Extraction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539386)
 
-### Subtask 7: Multimodal Aspect-Based Sentiment Analysis
+### Subtask 7: Few-shot Aspect-Based Sentiment Analysis
+
+- **[ACL-21]**: Multi-Label Few-Shot Learning for Aspect Category Detection. [[paper]](https://aclanthology.org/2021.acl-long.495.pdf)
+
+- **[Finding of EMNLP 2022]**: Label-Driven Denoising Framework for Multi-Label Few-Shot Aspect Category Detection. [[paper]](https://arxiv.org/pdf/2210.04220.pdf)[[code]](https://github.com/1429904852/LDF)
+
+### Subtask 8: Multimodal Aspect-Based Sentiment Analysis
 
 - **[ACL-20]**: Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf) [[code]](https://github.com/jefferyYu/UMT)
 
@@ -425,9 +431,3 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 - **[EMNLP-21]**: Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation Detection. [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
 
 - **[ACL-22]**: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
-
-### Subtask 8: Few-shot Aspect-Based Sentiment Analysis
-
-- **[ACL-21]**: Multi-Label Few-Shot Learning for Aspect Category Detection. [[paper]](https://aclanthology.org/2021.acl-long.495.pdf)
-
-- **[Finding of EMNLP 2022]**: Label-Driven Denoising Framework for Multi-Label Few-Shot Aspect Category Detection. [[paper]](https://arxiv.org/pdf/2210.04220.pdf)[[code]](https://github.com/1429904852/LDF)
