@@ -1,4 +1,5 @@
 # Aspect-Based-Sentiment-Analysis
+![](https://img.shields.io/badge/natural--language--processing-blue)
 ![](https://img.shields.io/badge/Sentiment--Analysis-green)
 ![](https://img.shields.io/badge/Aspect--Based--Sentiment--Analysis-red)
 
@@ -9,7 +10,7 @@ This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly 
     - [Aspect Term Extraction](#Aspect-Term-Extraction)
     - [Aspect-oriented Sentiment Classification](#aspect-oriented-sentiment-classification)
     - [Target-oriented Opinion Words Extraction](#target-oriented-opinion-words-extraction)
-    - [Aspect Pair/Triplet/Quadruple Extraction](#aspect-pairtripletquadruple-extraction)
+    - [Aspect Pair-Triplet-Quadruple Extraction](#aspect-pair-triplet-quadruple-extraction)
     - [Few-shot Aspect Category Detection](#few-shot-aspect-category-detection)
     - [ARTS(Adversarial datasets)](#artsadversarial-datasets)
   - [Paper List](#paper-list)
@@ -43,7 +44,7 @@ This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly 
 ### Target-oriented Opinion Words Extraction
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[data]](https://github.com/NJUNLP/TOWE)
 
-### Aspect Pair/Triplet/Quadruple Extraction
+### Aspect Pair-Triplet-Quadruple Extraction
 - **[ACL-20]**: SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
 
 - **[ACL-20]**: Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.582.pdf)
@@ -434,7 +435,9 @@ Classification. [[paper]](https://github.com/hiyouga/RepWalk/blob/master/paper.p
 
 - **[ACL-22]**: Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)![](https://img.shields.io/badge/Multi--Modal--Aspect--Sentiment--Analysis-blue)
 
-### Contributors
+## Contributors
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
 
 <a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=1429904852/Aspect-Based-Sentiment-Analysis" />
