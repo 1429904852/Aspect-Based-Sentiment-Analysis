@@ -3,6 +3,8 @@
 <div align="center">
 <img src="images/absa.png" width="150px">
 
+**This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly encourage the NLP researchers who are interested in this topic to make pull request to add or update the papers.**
+
 ![](https://img.shields.io/badge/natural--language--processing-blue)
 ![](https://img.shields.io/badge/Sentiment--Analysis-green)
 ![](https://img.shields.io/badge/Aspect--Based--Sentiment--Analysis-red)
@@ -11,7 +13,7 @@
 
 ---
 
-This is a curated list of "Aspect-Based-Sentiment-Analysis" papers. We strongly encourage the NLP researchers who are interested in this topic to make pull request to add or update the papers.
+
 
 ## Contents
   - [Datasets](#datasets)
