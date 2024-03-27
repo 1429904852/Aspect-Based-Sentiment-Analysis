@@ -50,6 +50,9 @@
 - **[EMNLP-19]**: A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis. [[paper]](https://github.com/siat-nlp/MAMS-for-ABSA/blob/master/pdf/A_Challenge_Dataset_and_Effective_Models_for_Aspect_Based_Sentiment_Analysis.pdf) [[data]](https://github.com/siat-nlp/MAMS-for-ABSA)
 
 - **[NAACL-21]**: ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction. [[paper]](https://aclanthology.org/2021.naacl-main.167.pdf)[[code]](https://github.com/Meituan-Dianping/asap)
+  
+- **[FABSA]**: An aspect-based sentiment analysis dataset of Customer Feedback reviews) [[paper]](https://doi.org/10.1016/j.neucom.2023.126867)[[data]](https://huggingface.co/datasets/jordiclive/FABSA) 
+
 
 ### Target-oriented Opinion Words Extraction
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[data]](https://github.com/NJUNLP/TOWE)
@@ -66,6 +69,7 @@
 - **[Finding of EMNLP-20]**: Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf)
 
 - **[ACL-21]**: Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
+  
 
 
 ### Few-shot Aspect Category Detection
