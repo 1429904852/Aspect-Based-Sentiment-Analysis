@@ -462,7 +462,8 @@ This project follows the all-contributors specification. Contributions of any ki
 <table>
   <tr>
     <td align="center"><a href="https://github.com/1429904852"><img src="https://avatars.githubusercontent.com/u/34151761?s=400&u=ffde349e3b1459f8fc07fa6e764ca5b91a39aad0&v=4" width="100px;" alt=""/><br /><sub><b>zhaof</b></sub></a><br /><a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/fwgood"><img src="https://avatars.githubusercontent.com/u/16516811?v=4" width="100px;" alt=""/><br /><sub><b>Wei Feng</b></sub></a><br /><a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis/pull/1/commits" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fwgood"><img src="https://avatars.githubusercontent.com/u/16516811?v=4" width="100px;" alt=""/><br /><sub><b>Wei Feng</b></sub></a><br /><a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis/pull/1" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jordiclive"><img src="https://avatars.githubusercontent.com/u/44066010?v=4" width="100px;" alt=""/><br /><sub><b>Jordan Clive</b></sub></a><br /><a href="https://github.com/1429904852/Aspect-Based-Sentiment-Analysis/pull/2" title="Code">💻</a></td>
   </tr>
 </table>
 
