@@ -51,7 +51,7 @@
 
 - **[NAACL-21]**: ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction. [[paper]](https://aclanthology.org/2021.naacl-main.167.pdf)[[code]](https://github.com/Meituan-Dianping/asap)
   
-- **[FABSA]**: An aspect-based sentiment analysis dataset of Customer Feedback reviews) [[paper]](https://doi.org/10.1016/j.neucom.2023.126867)[[data]](https://huggingface.co/datasets/jordiclive/FABSA) 
+- **[FABSA]**: An aspect-based sentiment analysis dataset of Customer Feedback reviews [[paper]](https://doi.org/10.1016/j.neucom.2023.126867)[[data]](https://huggingface.co/datasets/jordiclive/FABSA) 
 
 
 ### Target-oriented Opinion Words Extraction
